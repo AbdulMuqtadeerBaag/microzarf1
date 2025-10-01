@@ -1,2 +1,2 @@
 import
-Hello from microzarf
+Hello from amazon!
